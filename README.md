@@ -69,13 +69,6 @@ curl "https://spam-guard-api.vercel.app/api/check?email=test@tempmail.com"
   - Digit density heuristics
   - Vowel ratio (keyboard smash detection)
 
-## 💰 Pricing
-
-Available on [RapidAPI](https://rapidapi.com):
-
-- **Basic:** Free (500 requests/month)
-- **Pro:** $9/month (10,000 requests)
-- **Scale:** $29/month (Unlimited)
 
 ## 📝 License
 
